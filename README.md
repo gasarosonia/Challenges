@@ -52,7 +52,7 @@ To run the solutions locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gasarosonia/Challenges.git
+   git clone https://github.com/gasarosonia/Challenges/tree/main.git
    cd Challenges
    ```
 
